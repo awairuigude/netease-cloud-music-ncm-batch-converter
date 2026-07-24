@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+converted/
+output/
+*.ncm
+*.mp3
+*.flac
+*.m4a
+*.wav
+*.aac
+*.ogg
+*.lrc
